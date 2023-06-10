@@ -1,9 +1,1 @@
-# Day #2
-
-### Rich Text Editor
-In this tutorial ([Open in Youtube](https://youtu.be/gRyvG7PZ4m0)),  I am gonna showing to you how to build a online text editor with javascript. this text editor is similar to microsoft office word❗️
-
-# Screenshot
-Here we have project screenshot :
-
-![screenshot](screenshot.jpg)
+![screenshot](https://github.com/zelikhan/Day-2_Rich-Text-Editor/assets/114800813/eccd7088-51ce-48b8-9798-3ce9ec8c9db3)
